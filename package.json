@@ -34,7 +34,7 @@
     "release": "release-it"
   },
   "dependencies": {
-    "@zxing/library": "^0.18.0",
+    "@zxing/library": "0.18.0",
     "ember-auto-import": "^1.6.0",
     "ember-cli-babel": "^7.23.0",
     "ember-cli-htmlbars": "^5.3.1",
